@@ -22,4 +22,7 @@ Mit dieser E-Mail App kann man einfach und schnell E-Mails empfangen und versend
 
 2. **Programm starten**:
    ```bash
+   git clone https://github.com/finn4107/email-app
+   ```
+   ```bash
    python email_console_app.py
