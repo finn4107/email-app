@@ -13,6 +13,14 @@ Mit dieser E-Mail App kann man einfach und schnell E-Mails empfangen und versend
 - **Python 3.x**
 - Standardbibliotheken: `smtplib`, `imaplib`, `email` (werden mit Python geliefert).
 
+## Installation
+
+1. Klone das Repository oder lade die Dateien herunter:
+
+    ```bash
+    git https://github.com/finn4107/crypto-tracker
+    ```
+
 ## Verwendung
 1. **App-Passwort für Gmail erstellen**:
    - Gehe zu [Google Konto > Sicherheit](https://myaccount.google.com/security).
@@ -20,12 +28,14 @@ Mit dieser E-Mail App kann man einfach und schnell E-Mails empfangen und versend
    - Gehe zu **App-Passwörter** und erstelle ein neues Passwort für "E-Mail" und "Computer".
    - Verwende dieses Passwort anstelle deines regulären Gmail-Passworts im Programm.
 
-2. **Programm starten**:
-   
-- Einfache Lösung: email-app.exe herunterladen und starten :) oder...
-  
+
+1. Starte das Skript:
+
    ```bash
-   git clone https://github.com/finn4107/email-app
+   cd email-app
    ```
-   ```bash
+
+    ```bash
    python email-app.py
+   ```
+   
