@@ -21,6 +21,8 @@ Mit dieser E-Mail App kann man einfach und schnell E-Mails empfangen und versend
    - Verwende dieses Passwort anstelle deines regulären Gmail-Passworts im Programm.
 
 2. **Programm starten**:
+Einfache Lösung: email-app.exe herunterladen und starten :)
+oder...
    ```bash
    git clone https://github.com/finn4107/email-app
    ```
