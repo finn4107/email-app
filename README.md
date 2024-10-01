@@ -18,7 +18,7 @@ Mit dieser E-Mail App kann man einfach und schnell E-Mails empfangen und versend
 1. Klone das Repository oder lade die Dateien herunter:
 
     ```bash
-    git https://github.com/finn4107/crypto-tracker
+    git clone https://github.com/finn4107/email-app
     ```
 
 ## Verwendung
