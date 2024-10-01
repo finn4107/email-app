@@ -25,4 +25,4 @@ Mit dieser E-Mail App kann man einfach und schnell E-Mails empfangen und versend
    git clone https://github.com/finn4107/email-app
    ```
    ```bash
-   python email_console_app.py
+   python email-app.py
